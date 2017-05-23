@@ -9,9 +9,9 @@ In additional, use Airdrop transmits files between MacOS and iPhone in a easily 
 
 If you runs iFiler on a jailbroken iPhone and  it works well more than a unjailbroken iPhone.
 
-(https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0188.png "home")
+![iFiler Effect Photo 1](https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0188.PNG "home")
 
-(https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0189.png "actions")
+![iFiler Effect Photo 2](https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0189.PNG "actions")
 
-(https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0191.png "read")
+![iFiler Effect Photo 3](https://github.com/VictorZhang2014/iFiler/blob/master/Image/ScreenShots/IMG_0191.PNG "read")
 
