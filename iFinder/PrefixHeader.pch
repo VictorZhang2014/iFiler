@@ -1,0 +1,40 @@
+//
+//  PrefixHeader.pch
+//  iFinder
+//
+//  Created by VictorZhang on 21/04/2017.
+//  Copyright © 2017 Victor Studio. All rights reserved.
+//
+
+//颜色
+#define RGB(colorRgb,__a)  [UIColor colorWithRed:((colorRgb & 0xFF0000) >> 16)/255.0 green:((colorRgb & 0xFF00) >> 8)/255.0 blue:((colorRgb & 0xFF)/255.0) alpha:__a]
+
+#define WHOLLY_COLOR_GRAY            RGB(0xeaeaea, 1.0)   //灰色 所有背景
+#define WHOLLY_COLOR_GRAY0           RGB(0xcccccc, 1.0)   //灰色0
+#define WHOLLY_COLOR_GRAY1           RGB(0xeeeeee, 1.0)   //灰色1
+#define WHOLLY_COLOR_DarkGRAY        RGB(0xf3f3f5, 1.0)    
+
+#define WHOLLY_COLOR_GRAY2           RGB(0xc2c0c0, 1.0)
+#define WHOLLY_COLOR_BLACK0          RGB(0x000000, 1.0)
+
+#define WHOLLY_COLOR_BLACK           RGB(0x000000, 1.0)   //全局黑色
+#define WHOLLY_COLOR_WHITE           RGB(0xFFFFFF, 1.0)   //全局白色
+
+//字体
+#define WHOLLY_FONT10            [UIFont systemFontOfSize:10]
+#define WHOLLY_FONT11            [UIFont systemFontOfSize:11]
+#define WHOLLY_FONT12            [UIFont systemFontOfSize:12]
+#define WHOLLY_FONT13            [UIFont systemFontOfSize:13]
+#define WHOLLY_FONT14            [UIFont systemFontOfSize:14]
+#define WHOLLY_FONT15            [UIFont systemFontOfSize:15]
+#define WHOLLY_FONT16            [UIFont systemFontOfSize:16]
+#define WHOLLY_FONT17            [UIFont systemFontOfSize:17]
+#define WHOLLY_FONT18            [UIFont systemFontOfSize:18]
+#define WHOLLY_FONT19            [UIFont systemFontOfSize:19]
+#define WHOLLY_FONT20            [UIFont systemFontOfSize:20]
+
+
+
+//尺寸
+#define WHOLLY_WIDTH        [UIScreen mainScreen].bounds.size.width
+#define WHOLLY_HEIGHT        [UIScreen mainScreen].bounds.size.height
