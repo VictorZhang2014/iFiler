@@ -1,6 +1,8 @@
 # iFiler
 iFiler is a file manager for iPhone.  iFiler can transfer files through Airdrop, and can read files(including the extension format of *.txt, *.pdf, *.rtf, *.doc, *.xls, *.ppt etc). 
 
+[![Download](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/VictorZhang2014/iFiler)
+
 iFiler is like the Resource Manager on Windows, it's able to go through file(s) you want to see.
 
 iFiler is also like a Finder on MacOS, it's capable of browsing the directorie(s) and file(s) through 'root' directory.
